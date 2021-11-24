@@ -1,0 +1,22 @@
+*{
+ 	font-size: 20px;
+ 	font-family: rockwell;
+
+}
+
+#btAddCircle{
+	border-radius: 2em;
+	border: 0.12em solid #000;
+	
+}
+
+#btDelCircle{
+	border-radius: 2em;
+	border: 0.12em solid #000;
+}
+
+#btReport{
+	border-radius: 2em;
+	border: 0.12em solid #000;
+}
+
